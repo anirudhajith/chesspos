@@ -1,6 +1,15 @@
 # todos, notes, etc.
 todos.txt
 chess-embeddings-*.json
+*.faiss
+*.faiss.tar
+*.tar.bz2
+*.tar.gz
+*.tar
+*.h5
+*.json
+deep64/
+shallow128/
 
 # ignore all the data files except for a training configuration
 data/tuples
